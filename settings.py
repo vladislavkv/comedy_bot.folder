@@ -4,4 +4,3 @@ TOKEN = ''
 ACCESS_TOKEN = ''
 
 API_URL = 'https://api.vk.com/method/messages.send'
-
